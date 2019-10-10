@@ -1,3 +1,3 @@
-## [DEMO](http://www.nueng.work/workshop/js-pokeapi/) : http://www.nueng.work/workshop/js-pokeapi/
+## [DEMO](http://www.nueng.work/workshop/js-pokeapi/app/)
 
 Test fetch PokeAPI
