@@ -1,0 +1,4 @@
+*.scss linguist-detectable=false
+*.scss linguist-vendored=
+*.css linguist-detectable=false
+*.css linguist-vendored=false
